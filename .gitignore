@@ -1,0 +1,15 @@
+# IDE files
+.idea/
+
+# Python files
+__pycache__/
+*.pyc
+
+# Cookie files
+cookies.pkl
+
+# Environment variables
+.env
+
+# Log files
+*.log
